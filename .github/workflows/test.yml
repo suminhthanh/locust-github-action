@@ -15,4 +15,4 @@ jobs:
           URL:  "https://google.com"
           USERS: "6"
           RATE: "6"
-          RUNTIME: "10s"
+          RUNTIME: "20s"
